@@ -8,7 +8,7 @@ First, you need to have a working go environment:
 
 http://golang.org/doc/install
 
-### Godep
+### Godep 
 
 This go application is using github.com/tools/godeps to manage
 its dependencies, it is required to install it in order to
